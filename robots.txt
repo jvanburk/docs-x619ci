@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-4nnzom.biggamingwin.xyz/sitemap.xml
